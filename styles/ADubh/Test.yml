@@ -1,0 +1,7 @@
+extends: existence
+message: "Vale appears to be working."
+level: warning
+scope: text
+ignorecase: true
+tokens:
+  - is vale working
